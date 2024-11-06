@@ -1,2 +1,2 @@
-# doipu.github.io
-Redirect
+# stont.github.io
+Redirect WWW
