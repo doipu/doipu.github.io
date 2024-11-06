@@ -1,2 +1,2 @@
 # doipu.github.io
-Special for The Glessovich
+Redirect
